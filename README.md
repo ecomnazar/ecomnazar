@@ -1,25 +1,45 @@
-- 👋 Hi, I’m @ecomnazar
-- 👀 I’m interested in FrontEnd Development
-- 📫 How to reach me: nazar.se7en@gmail.com
+# Nazar Jumayew
+### Frontend Developer | React NextJS Redux TypeScript
 
----
+## Контактная информация:
+<p style="text-align: start">
+   📫 E-mail: <a href='mailto:ecomnazar.me@gmail.com'>ecomnazar.me@gmail.com</a>
+</p>
+<p style="text-align: start">
+   📫 Telegram: <a href='https://t.me/NabelliAdam'>@NabelliAdam</a>
+</p>
 
-### :hammer_and_wrench: What I use:
+***
 
-frontend:   
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a> |<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="45" height="45" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a> |<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a> | <a href="https://react.dev/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> |<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Redux Toolkit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a> |
-| --- | --- | --- | --- | --- | --- |
-| HTML5 | CSS3 | &nbsp;&nbsp;&nbsp;JS | &nbsp;&nbsp;&nbsp;TS | React | Redux/RTK |
+## 💼 Опыт работы:
 
-backend:  
+### ⌛ 2+ года
 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>| <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a> | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /></a> | <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /></a>
-| --- | --- | --- | --- |
-| Node.js | Express | MongoDB | Nginx |
+Большой опыт работы над Dashboard, созданием лендинговых сайтов, а также решением задач по парсингу и автоматизации бизнес-процессов. Использовал TypeScript и Node.js для реализации этих проектов. Умею создавать интерактивные панели управления, работать с базами данных, собирать и обрабатывать данные, а также автоматизировать рутинные задачи.
 
+- Имею опыт работы с frontend-технологиями, такими как TypeScript, Next.js, React, Redux, React Query препроцессоры
+  SCSS/SASS, React Hook Form, Pusher, Websocket
+- Хорошо знаком с TypeScript и использую его для улучшения типизации и надежности кода.
+- Использую Next.js для создания масштабируемых приложений с серверным рендерингом и статической генерацией.
+- Умею работать с Redux для управления состоянием приложения и создания масштабируемой архитектуры.
+- Работал с препроцессорами SCSS/SASS для улучшения стилей и создания многоразовых компонентов
+- Использовал React Hook Form для создания форм с минимальным количеством кода и удобного управления состоянием.
+- Умею работать над поддержкой и развитием новой функциональности приложений
+- Знаком с такими инструментами, как Jest и React Testing Library
+- Имею опыт работы с ESLint, знаком с настройкой и настройками конфигурации, для улучшения качества кода.
 
-and:  
+## 🤝 Soft skills:
 
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a> |<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /></a> | <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a> | <a href="https://en.bem.info/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="BEM" src="https://simpleicons.org/icons/bem.svg" /></a> | <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Postman" src="https://simpleicons.org/icons/postman.svg" /></a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
-| --- | --- | --- | --- | --- | --- | --- |
-| &nbsp;Jest | &nbsp;&nbsp;&nbsp;Git | Webpack | &nbsp;Sass | &nbsp;BEM | Postman | Figma |
+* Learning agility: Обладаю высокой скоростью обучения и готовностью к быстрому изменению,
+  благодаря чему могу легко адаптироваться к новым условиям и технологиям.
+* Опыт работы в командных проектах, где использовались Agile, Scrum и Kanban методологии.
+* Отлично ориентируюсь в больших объемах информации и умею быстро находить нужные данные.
+* Обладаю безграничной тягой к обучению и развитию своих навыком
+
+***
+
+## <p align="center"> 💻 Обо мне:</p>
+
+<p>
+Легко нахожу общий язык с людьми, адекватно рассчитываю свои силы, если буду понимать, что где то не успеваю, сообщу сразу же, и мой подход в работе и учебе такой, если остановился на одном месте, первые 2 часа стараюсь решить все сам (гугл, stackoverflow, документация) и только потом обращаться за помощью, всегда на связи
+</p>
