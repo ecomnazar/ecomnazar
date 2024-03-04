@@ -1,7 +1,7 @@
 # Nazar Jumayew
 ### Frontend Developer | ReactJS NextJS TypeScript
 
-## Контактная информация:
+## Contact Information:
 <p style="text-align: start">
    📫 E-mail: <a href='mailto:ecomnazar.me@gmail.com'>ecomnazar.me@gmail.com</a>
 </p>
