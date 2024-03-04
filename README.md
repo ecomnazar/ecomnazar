@@ -1,5 +1,5 @@
 # Nazar Jumayew
-### Frontend Developer | React NextJS Redux TypeScript
+### Frontend Developer | ReactJS NextJS TypeScript
 
 ## Контактная информация:
 <p style="text-align: start">
@@ -11,35 +11,35 @@
 
 ***
 
-## 💼 Опыт работы:
+## 💼 Experience:
 
-### ⌛ 2+ года
+### ⌛ 2+ years
 
-Большой опыт работы над Dashboard, созданием лендинговых сайтов, а также решением задач по парсингу и автоматизации бизнес-процессов. Использовал TypeScript и Node.js для реализации этих проектов. Умею создавать интерактивные панели управления, работать с базами данных, собирать и обрабатывать данные, а также автоматизировать рутинные задачи.
+Extensive experience in working on Dashboards, creating landing sites, as well as solving problems with parsing and automating business processes. Used TypeScript and Node.js to implement these projects. I can create interactive control panels, work with databases, collect and process data, and automate routine tasks.
 
-- Имею опыт работы с frontend-технологиями, такими как TypeScript, Next.js, React, Redux, React Query препроцессоры
+- I have experience working with frontend technologies such as TypeScript, Next.js, React, Redux, React Query preprocessors
   SCSS/SASS, React Hook Form, Pusher, Websocket
-- Хорошо знаком с TypeScript и использую его для улучшения типизации и надежности кода.
-- Использую Next.js для создания масштабируемых приложений с серверным рендерингом и статической генерацией.
-- Умею работать с Redux для управления состоянием приложения и создания масштабируемой архитектуры.
-- Работал с препроцессорами SCSS/SASS для улучшения стилей и создания многоразовых компонентов
-- Использовал React Hook Form для создания форм с минимальным количеством кода и удобного управления состоянием.
-- Умею работать над поддержкой и развитием новой функциональности приложений
-- Знаком с такими инструментами, как Jest и React Testing Library
-- Имею опыт работы с ESLint, знаком с настройкой и настройками конфигурации, для улучшения качества кода.
+- Familiar with TypeScript and use it to improve typing and reliability of code.
+- I use Next.js to create scalable applications with server rendering and static generation.
+- Know how to work with Redux to manage application state and create a scalable architecture.
+- Worked with SCSS/SASS preprocessors to improve styling and create reusable components
+- Used React Hook Form to create forms with minimal code and easy state management.
+- I can work on supporting and developing new application functionality
+- Familiar with tools such as Jest and React Testing Library
+- Have experience working with ESLint and am familiar with setup and configuration settings to improve code quality.
 
 ## 🤝 Soft skills:
 
-* Learning agility: Обладаю высокой скоростью обучения и готовностью к быстрому изменению,
-  благодаря чему могу легко адаптироваться к новым условиям и технологиям.
-* Опыт работы в командных проектах, где использовались Agile, Scrum и Kanban методологии.
-* Отлично ориентируюсь в больших объемах информации и умею быстро находить нужные данные.
-* Обладаю безграничной тягой к обучению и развитию своих навыком
+* Learning agility: I have a high learning speed and willingness to change quickly,
+  thanks to which I can easily adapt to new conditions and technologies.
+* Experience working in team projects using Agile, Scrum and Kanban methodologies.
+* I am excellent at navigating large amounts of information and can quickly find the necessary data.
+* I have an endless desire to learn and develop my skills
 
 ***
 
-## <p align="center"> 💻 Обо мне:</p>
+## <p align="center"> 💻 About me:</p>
 
 <p>
-Легко нахожу общий язык с людьми, адекватно рассчитываю свои силы, если буду понимать, что где то не успеваю, сообщу сразу же, и мой подход в работе и учебе такой, если остановился на одном месте, первые 2 часа стараюсь решить все сам (гугл, stackoverflow, документация) и только потом обращаться за помощью
+I easily find a common language with people, adequately calculate my strengths, if understand that I’m not keeping up somewhere, I’ll let you know right away, and my approach to work and study is that if I stop in one place, I try to solve everything myself for the first 2 hours (Google , stackoverflow, documentation) and only then ask for help
 </p>
