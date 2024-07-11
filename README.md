@@ -13,7 +13,7 @@
 
 ## 💼 Experience:
 
-### ⌛ 2+ years
+### ⌛ 3+ years
 
 Extensive experience in working on Dashboards, creating landing sites, as well as solving problems with parsing and automating business processes. Used TypeScript and Node.js to implement these projects. I can create interactive control panels, work with databases, collect and process data, and automate routine tasks.
 
